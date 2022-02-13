@@ -1,0 +1,16 @@
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\bin\Debug\net5.0\NameSorter.exe
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\bin\Debug\net5.0\NameSorter.deps.json
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\bin\Debug\net5.0\NameSorter.runtimeconfig.json
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\bin\Debug\net5.0\NameSorter.runtimeconfig.dev.json
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\bin\Debug\net5.0\NameSorter.dll
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\bin\Debug\net5.0\ref\NameSorter.dll
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\bin\Debug\net5.0\NameSorter.pdb
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.csproj.AssemblyReference.cache
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.AssemblyInfoInputs.cache
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.AssemblyInfo.cs
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.csproj.CoreCompileInputs.cache
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.dll
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\ref\NameSorter.dll
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.pdb
+C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorter\obj\Debug\net5.0\NameSorter.genruntimeconfig.cache

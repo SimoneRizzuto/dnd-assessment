@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = NameSorterTest
+build_property.ProjectDir = C:\Users\Simone Rizzuto\Desktop\Work Folder\Job Application Files\Dye & Durham Test Code\namesorter\NameSorter\NameSorterTest\
